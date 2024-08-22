@@ -1,0 +1,1 @@
+### Bu projeyi, React uygulamasında Google OAuth2.0 kimlik doğrulamasını öğrenmek ve uygulamak için oluşturdum. Amacım, kullanıcıların Google hesaplarıyla giriş yapmasını sağlamak ve giriş sonrası kullanıcı bilgilerini yönetmek.
